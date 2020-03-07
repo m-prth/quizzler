@@ -5,6 +5,8 @@
 
 A Flutter based quiz game.
 
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
